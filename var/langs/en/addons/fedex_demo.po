@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::fedex_demo"
+msgid "FedEx demo"
+msgstr "FedEx demo"
+
+msgctxt "Addons::description::fedex_demo"
+msgid "FedEx demo"
+msgstr "FedEx demo"
+
+msgctxt "Languages::addons.fedex_demo.fedex_demo"
+msgid "FedEx demo"
+msgstr "FedEx demo"
+
+msgctxt "Languages::carrier_fedex_demo"
+msgid "FedEx demo"
+msgstr "FedEx demo"
